@@ -43,14 +43,14 @@ The dataset consists of five related tables that together represent Walmart’s 
 - Total sales reached **$15.75M**, with top-performing departments including **Sports & Outdoors** and **Clothing**.  
 - **Cash and debit cards** were the most popular payment methods.  
 - Sales showed fluctuations across years, with visible recovery trends in 2024.
-- Gender distribution remained balanced, showing consistent customer engagement.   
+- Gender distribution remained balanced, showing consistent customer engagement.
+  
 ---
 
 ## 🧾 Dashboard Preview
 
 ### 💻 Power BI Dashboard
-![Dashboard Preview](images/dashboard_preview.png)
-
+![Dashboard Preview](images/Screenshot Walmart dashboard.png) 
 ## 🧰 DAX Measures Used
 
 ```DAX
