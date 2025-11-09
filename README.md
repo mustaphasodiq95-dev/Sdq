@@ -61,14 +61,14 @@ Average Sales per Customer = DIVIDE([Total Sales], [Unique Customers])
 ```
 ---
 
-💼 Business Impact
+### 💼 Business Impact
 
 This project demonstrates how data visualization can help identify top-performing departments, optimize sales strategies, and monitor payment behavior.
 It showcases the ability to clean messy real-world data, establish relational models, and communicate insights that drive business action.
 
 ---
 
-🧑🏽‍💻 About Me
+### 🧑🏽‍💻 About Me
 
 Hi, I’m Sodiq, a Data Analyst skilled in transforming data into business insights using Excel and Power BI.
 I’m passionate about clean data, clear visuals, and impactful storytelling.
