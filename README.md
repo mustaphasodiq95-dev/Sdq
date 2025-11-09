@@ -58,11 +58,15 @@ Total Sales = SUMX(Sale, Sale[quantity] * RELATED(Product[price]))
 Total Quantity = SUM(Sale[quantity])
 Unique Customers = DISTINCTCOUNT(Sale[customer_id])
 Average Sales per Customer = DIVIDE([Total Sales], [Unique Customers])
+```
+---
 
 💼 Business Impact
 
 This project demonstrates how data visualization can help identify top-performing departments, optimize sales strategies, and monitor payment behavior.
 It showcases the ability to clean messy real-world data, establish relational models, and communicate insights that drive business action.
+
+---
 
 🧑🏽‍💻 About Me
 
