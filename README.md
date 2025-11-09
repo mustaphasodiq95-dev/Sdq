@@ -49,7 +49,8 @@ The dataset consists of five related tables that together represent Walmart’s 
 
 ## 🧾 Dashboard Preview
 
-### 💻 Power BI Dashboard
+### 💻 Power BI Dashboard<img width="1342" height="742" alt="Screenshot Walmart dashboard" src="https://github.com/user-attachments/assets/a7e2de4e-392b-4844-9e0c-cabf6b76e94f" />
+
 ![Dashboard Preview](images/Screenshot Walmart dashboard.png) 
 ## 🧰 DAX Measures Used
 
